@@ -1,0 +1,3 @@
+Collect each coin before the timer runs out. Every time you collect a coin, the time resets, and a new
+coin will spawn. To move left, press the 'A' key, and to move right press the 'D' key. To jump, press
+the spacebar, and to move faster, press shift. Have fun!

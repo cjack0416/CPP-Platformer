@@ -1,0 +1,1 @@
+Compile with:  g++ --std=c++11 -g ./NameOfYourFile.cpp -o ./NameOfExeFile -mwindows
